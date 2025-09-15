@@ -1,0 +1,6 @@
+git -a 
+git --all
+pull
+push
+fetch
+vcs (version control system) not service!!
